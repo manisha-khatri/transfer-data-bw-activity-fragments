@@ -1,6 +1,3 @@
-# transfer-data-bw-activity-fragments
-
-
 Share data between Fragments and Activity
 
 Pass data from: Activity --> Fragment
